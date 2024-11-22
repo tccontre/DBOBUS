@@ -10,3 +10,11 @@ This Python Script can roughly de-obfuscate the actual script being obfuscated b
 Due to the layered and customizable obfuscation techniques employed by the ABOBUS obfuscator, the de-obfuscation process implement by this de-obfuscator, may require specific adjustments tailored to the features utilized in the obfuscated malware samples. These tweaks are essential to accurately reverse the obfuscation and analyze the underlying code. The complexity of the de-obfuscation effort can vary depending on the obfuscation options selected during the encoding process.
 
 
+## Simple HOWTO:
+
+https://github.com/user-attachments/assets/db908489-3931-4ad5-97aa-32c6b924b265
+
+
+## Example Output:
+
+<img src="images/dbobus.png"> </img>
