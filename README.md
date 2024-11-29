@@ -2,7 +2,7 @@
 Description: A simple python script to de-obfuscate ABOBUS batch script obfuscator.
 
 ## Introduction:
-The ABOBUS Obfuscator, developed by EscaLag, is a batch script obfuscation tool designed to obscure and protect code written in batch programming. It is recognized for its effectiveness in making batch files harder to read and reverse-engineer by using advanced obfuscation techniques. The tool is implemented in Python and is considered one of the more powerful options available for batch file obfuscation. 
+The ABOBUS Obfuscator, developed by EscaLag, is a batch script obfuscation tool designed to obscure and protect code written in batch programming. It is recognized for its effectiveness in making batch files harder to read and reverse-engineer by using advanced obfuscation techniques. The tool is implemented in Python and is considered one of the effective tools for batch file obfuscation. 
 
 This Python Script can roughly de-obfuscate the actual script being obfuscated by this ABOBUS obfuscator.
 
